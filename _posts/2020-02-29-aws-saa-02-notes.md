@@ -19,4 +19,5 @@ Other links that I collected during my research:
 1. https://blog.usejournal.com/passing-the-aws-solutions-architect-associate-exam-in-2019-81fccb7caebd
 
 
-Next: [Notes from Ryan's tutorial.](2020-03-7-notes-from-ryan-s-tutorial.md)
+
+Next: [Notes from Ryan's tutorial.](2020-03-07-notes-from-ryan-s-tutorial)
