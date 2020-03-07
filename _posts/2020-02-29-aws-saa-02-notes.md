@@ -18,4 +18,5 @@ Other links that I collected during my research:
 1. https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02/
 1. https://blog.usejournal.com/passing-the-aws-solutions-architect-associate-exam-in-2019-81fccb7caebd
 
-Next: Notes from Ryan's tutorial.
+
+Next: [Notes from Ryan's tutorial.](2020-03-7-notes-from-ryan-s-tutorial.md)
