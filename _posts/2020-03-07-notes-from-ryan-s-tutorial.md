@@ -2,7 +2,7 @@
 layout: "post"
 title: "Notes from Ryan's Tutorial"
 date: "2020-03-07 14:53"
-published: false
+published: true
 ---
 So, I finished Ryan's excellent tutorial on the AWS-SAA exam from Udemy. The entire tutorial is about 12.5 hours long splint into multiple lectures with an average length of approximately 10-12 mins. The longest labs were about 20 mins. I spent a couple of weekends and at least a couple of hours every day after work going through the videos. I also took a couple of days off at good stopping points to give myself a break.
 

@@ -1,6 +1,6 @@
 ---
 title: "Study notes for AWS-SAA-C02"
-published: false
+published: true
 ---
 Blog to keep track of my AWS-SAA-C02 exam prep.
 I've been meaning to break into the cloud world for a while now and dabbling with various cloud providers over the last few years and decided to formally have some form or certification. While I don't necessarily believe that certifications are useful by themselves, it certainly helps with getting into a mindset of learning in a formal, structured manner.
