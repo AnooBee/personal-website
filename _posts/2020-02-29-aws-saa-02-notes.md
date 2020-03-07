@@ -14,8 +14,8 @@ Once the decision to pursue AWS certification was made, I researched a bit on ho
 The Ryan Kroonenburg course from A Cloud Guru was highly recommended along with Tutorials Dojo's Practice tests. I purchased both these off Udemy in the last week of February.
 
 Other links that I collected during my research:
-https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
-https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02/
-https://blog.usejournal.com/passing-the-aws-solutions-architect-associate-exam-in-2019-81fccb7caebd
+1. https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
+1. https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02/
+1. https://blog.usejournal.com/passing-the-aws-solutions-architect-associate-exam-in-2019-81fccb7caebd
 
 Next: Notes from Ryan's tutorial.
