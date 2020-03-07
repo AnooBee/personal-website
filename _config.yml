@@ -20,6 +20,10 @@ topics:
     web_url: https://github.com/spring-cloud
     image_url: https://avatars3.githubusercontent.com/u/7815877?s=200&v=4
 
+  - name: Apache Spark
+    web_url: https://github.com/awesome-spark/awesome-spark#readme
+    image_url: https://camo.githubusercontent.com/7357732177d2f78c60b492621c14c28e69c6088f/68747470733a2f2f63646e2e7261776769742e636f6d2f617765736f6d652d737061726b2f617765736f6d652d737061726b2f66373861313664622f737061726b2d6c6f676f2d74726164656d61726b2e737667
+
   - name: ReactJS
     web_url: https://github.com/topics/react
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
@@ -38,11 +42,8 @@ topics:
 
   - name: Python
     web_url: https://github.com/topics/python3
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png  
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 
   - name: Awesome
     web_url: https://github.com/topics/awesome
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/awesome/awesome.png
-
-
-
