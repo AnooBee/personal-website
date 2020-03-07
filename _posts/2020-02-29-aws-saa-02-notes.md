@@ -20,4 +20,4 @@ Other links that I collected during my research:
 
 
 
-Next: [Notes from Ryan's tutorial](../2020/03/07/notes-from-ryan-s-tutorial)
+Next: [[Notes from Ryan's tutorial](../../../../2020/03/07/notes-from-ryan-s-tutorial)](../2020/03/07/notes-from-ryan-s-tutorial)
